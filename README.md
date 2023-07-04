@@ -2,7 +2,7 @@
 
 <img src='assets/teaser.png'/>
 
-### [Paper](https://arxiv.org/abs/1906.09909) | [Pretrained Model](https://facevc.blob.core.windows.net/zhanbo/old_photo/colorization_checkpoint.zip) | [Youtube video](https://youtu.be/HXWR5h5vVYI) :fire: | [Colab demo](https://colab.research.google.com/drive/1Y1XTlTdUG-2LzrH1Vnr_osg9BQavfYsz?usp=sharing)
+### [Paper](https://arxiv.org/abs/1906.09909) | [Pretrained Model](https://facevc.blob.core.windows.net/zhanbo/old_photo/colorization_checkpoint.zip) | [Youtube video](https://youtu.be/HXWR5h5vVYI) :fire: | [Colab demo]([https://colab.research.google.com/drive/1Y1XTlTdUG-2LzrH1Vnr_osg9BQavfYsz?usp=sharing](https://colab.research.google.com/drive/1Z_3DOFA5ZSc6jBnbMq3CpMT7mHwM5q_D))
 
 **Deep Exemplar-based Video Colorization, CVPR2019**
 
